@@ -1,0 +1,60 @@
+[07-Jun-2016 10:26:46 America/Denver] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING), expecting ',' or ';' in /home/wirelfa3/public_html/cellphoneacc2/admin/view/template/catalog/product_form.tpl on line 100
+[07-Jun-2016 10:26:55 America/Denver] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING), expecting ',' or ';' in /home/wirelfa3/public_html/cellphoneacc2/admin/view/template/catalog/product_form.tpl on line 100
+[07-Jun-2016 11:48:42 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:43 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:45 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:48 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:50 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:51 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:53 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:54 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:54 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:54 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:55 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:56 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:48:56 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 11:49:18 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 11
+[07-Jun-2016 12:02:05 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 12:02:07 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 12:02:15 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 12:04:39 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 6
+[07-Jun-2016 12:04:44 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 6
+[07-Jun-2016 13:08:33 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/wirelfa3/public_html/cellphoneacc2/admin/controller/catalog/product.php on line 648
+[07-Jun-2016 13:19:54 America/Denver] PHP Fatal error:  Call to undefined method stdClass::result() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 6
+[07-Jun-2016 13:21:33 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 13:21:34 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 13:21:34 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 13:21:35 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 13:21:36 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 13:21:37 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 13:21:37 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 13:21:43 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 5
+[07-Jun-2016 13:22:17 America/Denver] PHP Fatal error:  Call to undefined method stdClass::result() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 6
+[07-Jun-2016 13:23:36 America/Denver] PHP Fatal error:  Call to undefined method stdClass::row() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 7
+[07-Jun-2016 13:27:02 America/Denver] PHP Parse error:  syntax error, unexpected 'WW' (T_STRING) in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 6
+[07-Jun-2016 13:27:03 America/Denver] PHP Parse error:  syntax error, unexpected 'WW' (T_STRING) in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 6
+[07-Jun-2016 13:27:04 America/Denver] PHP Parse error:  syntax error, unexpected 'WW' (T_STRING) in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 6
+[07-Jun-2016 13:27:48 America/Denver] PHP Fatal error:  Call to undefined method DB::simple_query() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 6
+[07-Jun-2016 13:30:25 America/Denver] PHP Fatal error:  Call to undefined method stdClass::row() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 6
+[07-Jun-2016 13:32:08 America/Denver] PHP Fatal error:  Call to undefined method stdClass::result() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 6
+[07-Jun-2016 13:34:43 America/Denver] PHP Fatal error:  Call to undefined method stdClass::result() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 7
+[07-Jun-2016 13:35:46 America/Denver] PHP Fatal error:  Call to undefined method stdClass::result_array() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 7
+[07-Jun-2016 13:59:39 America/Denver] PHP Fatal error:  Call to undefined method stdClass::row() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 9
+[07-Jun-2016 14:05:46 America/Denver] PHP Fatal error:  Unsupported operand types in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 9
+[07-Jun-2016 14:08:25 America/Denver] PHP Fatal error:  Unsupported operand types in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 9
+[07-Jun-2016 14:08:45 America/Denver] PHP Fatal error:  Call to undefined method stdClass::row() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 9
+[07-Jun-2016 14:15:14 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 13
+[07-Jun-2016 14:15:16 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 13
+[07-Jun-2016 14:15:17 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 13
+[07-Jun-2016 14:15:18 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 13
+[07-Jun-2016 14:16:00 America/Denver] PHP Fatal error:  Call to undefined method DB::select() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 7
+[07-Jun-2016 14:43:19 America/Denver] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/wirelfa3/public_html/cellphoneacc2/admin/controller/catalog/product.php on line 645
+[07-Jun-2016 14:43:21 America/Denver] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/wirelfa3/public_html/cellphoneacc2/admin/controller/catalog/product.php on line 645
+[07-Jun-2016 15:40:14 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 7
+[07-Jun-2016 15:40:40 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 7
+[07-Jun-2016 15:46:18 America/Denver] PHP Fatal error:  Call to undefined method stdClass::result() in /home/wirelfa3/public_html/cellphoneacc2/admin/model/catalog/product.php on line 8
+[22-Jun-2016 11:47:52 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/wirelfa3/public_html/cellphoneacc2/admin/view/template/sale/customer_form.tpl on line 817
+[29-Jun-2016 10:36:59 America/Denver] PHP Fatal error:  Class 'Controllersaleorder' not found in /home/wirelfa3/public_html/cellphoneacc2/system/modification/system/engine/action.php on line 62
+[29-Jun-2016 10:43:09 America/Denver] PHP Fatal error:  Class 'Controllersaleorder' not found in /home/wirelfa3/public_html/cellphoneacc2/system/modification/system/engine/action.php on line 62
+[29-Jun-2016 12:53:14 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wirelfa3/public_html/cellphoneacc2/admin/model/sale/order.php on line 188
+[29-Jun-2016 13:29:53 America/Denver] PHP Fatal error:  Class 'Controllersaleorder' not found in /home/wirelfa3/public_html/cellphoneacc2/system/modification/system/engine/action.php on line 62

@@ -1,0 +1,26 @@
+[06-Jun-2016 11:18:27 America/Denver] PHP Parse error:  syntax error, unexpected '"?>"' (T_CONSTANT_ENCAPSED_STRING) in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/product/product.php on line 394
+[06-Jun-2016 11:24:25 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/product/product.php on line 437
+[06-Jun-2016 11:24:29 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/product/product.php on line 437
+[06-Jun-2016 11:26:04 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/product/product.php on line 437
+[17-Jun-2016 14:44:50 America/Denver] PHP Parse error:  syntax error, unexpected '$yesno' (T_VARIABLE) in /home/wirelfa3/public_html/cellphoneacc2/catalog/model/payment/cheque.php on line 22
+[30-Jun-2016 12:05:12 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/cart.php on line 167
+[30-Jun-2016 12:05:14 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/cart.php on line 167
+[30-Jun-2016 12:05:17 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/cart.php on line 167
+[30-Jun-2016 12:05:20 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/cart.php on line 167
+[30-Jun-2016 12:05:49 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/cart.php on line 167
+[30-Jun-2016 12:06:39 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/cart.php on line 167
+[30-Jun-2016 12:06:41 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/cart.php on line 167
+[30-Jun-2016 12:06:41 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/cart.php on line 167
+[30-Jun-2016 12:06:42 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/cart.php on line 167
+[30-Jun-2016 13:37:37 America/Denver] PHP Fatal error:  Class 'Cart' not found in /home/wirelfa3/public_html/cellphoneacc2/index.php on line 234
+[30-Jun-2016 13:37:37 America/Denver] PHP Fatal error:  Class 'Cart' not found in /home/wirelfa3/public_html/cellphoneacc2/index.php on line 234
+[30-Jun-2016 13:37:40 America/Denver] PHP Parse error:  syntax error, unexpected ''Vendor'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/system/library/cart.php on line 267
+[30-Jun-2016 13:38:01 America/Denver] PHP Parse error:  syntax error, unexpected ''Vendor'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/system/library/cart.php on line 267
+[30-Jun-2016 13:38:01 America/Denver] PHP Parse error:  syntax error, unexpected ''Vendor'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wirelfa3/public_html/cellphoneacc2/system/library/cart.php on line 267
+[30-Jun-2016 13:38:24 America/Denver] PHP Fatal error:  Class 'Cart' not found in /home/wirelfa3/public_html/cellphoneacc2/index.php on line 234
+[30-Jun-2016 13:38:26 America/Denver] PHP Fatal error:  Class 'Cart' not found in /home/wirelfa3/public_html/cellphoneacc2/index.php on line 234
+[30-Jun-2016 13:38:28 America/Denver] PHP Fatal error:  Class 'Cart' not found in /home/wirelfa3/public_html/cellphoneacc2/index.php on line 234
+[30-Jun-2016 14:01:27 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/confirm.php on line 346
+[30-Jun-2016 14:02:32 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/confirm.php on line 475
+[30-Jun-2016 15:04:18 America/Denver] PHP Fatal error:  Cannot use [] for unsetting in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/confirm.php on line 489
+[30-Jun-2016 15:24:48 America/Denver] PHP Parse error:  syntax error, unexpected 'i' (T_STRING) in /home/wirelfa3/public_html/cellphoneacc2/catalog/controller/checkout/confirm.php on line 490

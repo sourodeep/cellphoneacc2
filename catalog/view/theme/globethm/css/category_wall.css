@@ -1,0 +1,49 @@
+.category-wall {
+	
+}
+
+	.category-wall > div > div {
+		padding-top: 10px;
+		text-align: center;
+	}
+		
+		.category-wall .name {
+			padding: 7px 0px 7px 0px;
+			background:#EDECF0;
+			border-bottom:3px solid rgba(0,0,0,0.40);
+		}
+		
+			.category-wall .name a {
+				font-size: 14px;
+				color: #363A47;
+			}
+			
+			.category-wall a {
+				background:#EDECF0;
+				border-bottom:3px solid #EDECF0;
+				line-height: 0px !important;
+			}
+		
+		.category-wall ul {
+			list-style: none;
+			margin: 0px;
+			padding: 0px 0px 0px 0px;
+		}
+			
+			.category-wall ul li a,
+			.more-link {
+				display: block;
+				text-align: center;
+				padding: 10px 0px;
+				font-size: 11px;
+			}
+			
+				.more-link {
+					border-bottom: none;
+				}
+				
+@media (max-width: 767px) {
+	.responsive .category-wall > div > div {
+		padding-top: 10px;
+	}
+}
